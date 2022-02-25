@@ -9,7 +9,7 @@
 - 🔭 &ensp;I’m currently working 👨🏽‍💻 on an educational website 
 - 🌱 &ensp;I’m currently learning Advanced Web Devlopment using MERN 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email] or [**Linkedin**][linkedin]
+- 📫 &ensp;How to reach me: [**Email**][email] or [**Linkedin**][linkedin]
 
 <br />
 <br />
