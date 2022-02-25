@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @HyRaXxItY
-- 👀 I’m interested in Web development and machine learning.
-- 🌱 I’m currently learning front end development and intermediate programming language like, python, java,c++,c.
-- 💞️ I’m looking to collaborate on anything that might help me in the future.
-- 📫 How to reach me gmail: yasirmohammed122002@gmail.com
 
 
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCeUy3yILRwCCj3BMcaiSBcA"><em>HyRaXxItY</em></a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCeUy3yILRwCCj3BMcaiSBcA"><strong> Yasier </strong></a></h1>
 <h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Android developer </h3>
 <h3 align="center"> 🙃 Pro-crastinater </h3>
 
