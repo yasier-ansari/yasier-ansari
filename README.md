@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi 👋, I'm <strong> **Yasier** </strong></h1>
+<h1 align="center"> Hi 👋, I'm <em> YASIER </em></h1>
 <h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Android developer </h3>
 <h3 align="center"> 🙃 Pro-crastinater </h3>
 
