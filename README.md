@@ -1,12 +1,12 @@
 
 
-<h1 align="center"> Hi 👋, I'm <strong> Yasier </strong></h1>
+<h1 align="center"> Hi 👋, I'm <strong> **Yasier** </strong></h1>
 <h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Android developer </h3>
 <h3 align="center"> 🙃 Pro-crastinater </h3>
 
 
 
-- 🔭 &ensp;I’m currently working 👨🏽‍💻 on a educational website 
+- 🔭 &ensp;I’m currently working 👨🏽‍💻 on an educational website 
 - 🌱 &ensp;I’m currently learning Advanced Web Devlopment using MERN 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email] or [**Linkedin**][linkedin]
