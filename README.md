@@ -2,7 +2,9 @@
 
 <h1 align="center"> Hi 👋, I'm <em> NORU </em></h1>
 <h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Android developer </h3>
-<h3 align="center"> always eager to learn new languages and learn some techincal stuff that can actually <br> help me grasp the knowledge of " how tf 🙃 does that thing work "  currently pursuing BE in computer science and want to build a strong portfolio for my future self always open to suggestions ( shoot me an e-mail for collaboration 💻 ) </h3>
+<h3 align="center"> always eager to learn new languages and learn some techincal stuff that can actually  
+  help me grasp the knowledge of " how tf 🙃 does that thing work "  currently pursuing BE in computer science
+  want to build a strong portfolio for my future self always open to suggestions ( shoot me an e-mail for collaboration 💻 ) </h3>
 
 
 
