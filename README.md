@@ -6,7 +6,8 @@
 
  <p align="center"> always eager to learn new languages and learn some techincal stuff that can actually  
  help me grasp the knowledge of " how tf 🙃 does that thing work "  currently pursuing BE in computer science
- want to build a strong portfolio for my future self always open to suggestions ( shoot me an e-mail for collaboration 💻 ) </p>
+ want to build a strong portfolio for my future self always open to suggestions </p>
+ <h5 align="left"> ( shoot me an e-mail for collaboration 💻 ) </h5>
 
 
 
