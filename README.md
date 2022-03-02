@@ -4,9 +4,9 @@
 <h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Android developer </h3>
 
 
- always eager to learn new languages and learn some techincal stuff that can actually  
+ <p align="center"> always eager to learn new languages and learn some techincal stuff that can actually  
  help me grasp the knowledge of " how tf 🙃 does that thing work "  currently pursuing BE in computer science
- want to build a strong portfolio for my future self always open to suggestions ( shoot me an e-mail for collaboration 💻 ) 
+ want to build a strong portfolio for my future self always open to suggestions ( shoot me an e-mail for collaboration 💻 ) </p>
 
 
 
