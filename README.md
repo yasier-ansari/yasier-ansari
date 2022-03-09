@@ -11,7 +11,7 @@
 
 
 
-- 🔭 &ensp;I’m currently working 👨🏽‍💻 on an educational website 
+- 🔭 &ensp;I’m currently working 👨🏽‍💻 on a AI-chatbot <br> 
 - 🌱 &ensp;I’m currently learning Advanced Web Devlopment using MERN 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 📫 &ensp;How to reach me: [**Email**][email] or [**Linkedin**][linkedin]
