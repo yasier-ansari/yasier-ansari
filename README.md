@@ -1,18 +1,18 @@
 
 
 <h1 align="center"> Hi 👋, I'm <em> NORU </em></h1>
-<h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Android developer </h3>
+<h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Flutter developer </h3>
 
 
- <p align="center"> always eager to learn new languages and learn some techincal stuff that can actually  
+ <p align="center"> always eager to learn new technologies and learn some techincal stuff that can actually  
  help me grasp the knowledge of " how 🙃 does that thing work " ⚈ currently pursuing BE in computer science
  ⚈ want to build a strong portfolio for my future self ⚈ always open to suggestions </p>
  <h5 align="right"> 👉 ( shoot me an e-mail for collaboration 💻 ) </h5> <br><br>
 
 
 
-- 🔭 &ensp;I’m currently working 👨🏽‍💻 on a AI-chatbot <br> 
-- 🌱 &ensp;I’m currently learning Advanced Web Devlopment using MERN 
+- 🔭 &ensp;I’m currently working 👨🏽‍💻 on official Google Developer Student Clubs' Website <br> 
+- 🌱 &ensp;I’m currently learning Advanced Web Devlopment using MERN  & NextJS
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 📫 &ensp;How to reach me: [**Email**][email] or [**Linkedin**][linkedin]
 
@@ -32,6 +32,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/yasier-ansari-711076222
-[github]: https://github.com/HyRaXxItY
-[email]: mailto:yasirmohammed122002@gmail.com.com
+[github]: https://github.com/yasier-ansari
+[email]: mailto:contact.yasier@gmail.com
 
