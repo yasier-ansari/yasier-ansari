@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi 👋, I'm <em> NORU </em></h1>
-<h3 align="center"> Web developer ||  Machine learning enthusiast || wanna be Flutter developer </h3>
+<h3 align="center"> Web developer  </h3>
 
 
  <p align="center"> always eager to learn new technologies and learn some techincal stuff that can actually  
