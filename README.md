@@ -65,26 +65,5 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <br/>
-<picture>
-<source media="(prefers-color-scheme:light)" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yasier-ansari&show_icons=true&theme=dracula&layout=compact" alt="yasier-ansari" align="center" width="500" />
-<source media="(prefers-color-scheme:dark)" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yasier-ansari&show_icons=true&layout=compact" alt="yasier-ansari" align="center" width="500" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasier-ansari&show_icons=true&layout=compact" align="center" width="500" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=yasier-ansari&show_icons=true&theme=dracula" align="center" width="500" />
 <br/>
-<picture>
-<source media="(prefers-color-scheme:light)" srcset="https://github-readme-stats.vercel.app/api?username=yasier-ansari&show_icons=true&theme=dracula" align="center" width="500" >
-<source media="(prefers-color-scheme:dark)" srcset="https://github-readme-stats.vercel.app/api?username=yasier-ansari&show_icons=true&locale=en"align="center" width="500" >
-<img src="https://github-readme-stats.vercel.app/api?username=yasier-ansari&show_icons=true&locale=en" align="center" width="500" />
-</picture>
-<br/>
-<picture align="center">
-<source media="(prefers-color-scheme:light)" srcset="https://streak-stats.demolab.com/?user=yasier-ansari&theme=dark" align="center" width="500"  >
-<source media="(prefers-color-scheme:dark)" srcset="https://streak-stats.demolab.com/?user=yasier-ansari" align="center" width="500" >
-<img src="https://streak-stats.demolab.com/?user=yasier-ansari" align="center" width="500" />
-</picture>
-<br/>
-<picture>
-<source media="(prefers-color-scheme:light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=noru&theme=dracula"width="500" >
-<source media="(prefers-color-scheme:dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=noru" width="500" >
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=noru&theme=dracula" width="500" />
-</picture>
