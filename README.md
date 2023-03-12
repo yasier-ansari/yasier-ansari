@@ -70,6 +70,17 @@
 <br />
 
 <!--START_SECTION:waka-->
+
+```text
+From: 16 February 2023 - To: 12 March 2023
+
+Total Time: 61 hrs 2 mins
+
+JavaScript    54 hrs 20 mins  ██████████████████████▒░░   89.01 %
+Markdown      3 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Other         48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+```
+
 <!--END_SECTION:waka-->
 <br />
 
